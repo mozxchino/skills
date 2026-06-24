@@ -1,0 +1,13 @@
+{
+  "name": "mattpocock-skills-market",
+  "owner": {
+    "name": "Mos"
+  },
+  "plugins": [
+    {
+      "name": "mattpocock-skills",
+      "source": "./",
+      "description": "Matt Pocock's engineering skills (tdd, diagnosing-bugs, triage, to-prd, grill-me, domain-modeling, etc.)"
+    }
+  ]
+}
